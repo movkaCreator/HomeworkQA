@@ -2,7 +2,7 @@ package Lesson_1;
 
 import java.util.Arrays;
 
-public class Lesson_1 {
+public class Methods {
     public static void printThreeWords() {
         System.out.println("Orange\nBanana\nApple");
     }
