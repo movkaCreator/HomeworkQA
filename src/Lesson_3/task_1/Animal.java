@@ -1,4 +1,4 @@
-package Lesson_3;
+package Lesson_3.task_1;
 
 public class Animal {
     protected static int animalsCount = 0;
