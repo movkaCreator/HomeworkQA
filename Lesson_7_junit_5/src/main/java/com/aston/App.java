@@ -7,7 +7,7 @@ public class App {
 
     public static int factorial(int n) {
         if (n < 0) {
-            throw new IllegalArgumentException("Отрицательное число.");
+            throw new IllegalArgumentException("Отрицательное число");
         }
         int result = 1;
         for (int i = 1; i <= n; i++) {
